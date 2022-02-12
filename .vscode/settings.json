@@ -4,5 +4,6 @@
     ],
     "python.analysis.extraPaths": [
         "c:\\Users\\mrnat\\.vscode\\extensions\\stefanwehr.write-your-python-program-0.15.0\\python\\src\\"
-    ]
+    ],
+    "python.linting.enabled": false
 }
